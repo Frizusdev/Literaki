@@ -11,7 +11,7 @@
  
  ## Console View
  
- ![Screenshot](img/ConsolePhoto.png) 
+ ![Screenshot](ConsolePhoto.png) 
 
  
 ## Remember to change ConnectionString to your DB and crate migration and update DB.
